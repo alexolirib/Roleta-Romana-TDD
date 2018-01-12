@@ -1,0 +1,5 @@
+c:\users\adm\documents\visual studio 2012\Projects\ProjetoRoletaRomana\JogoRoletaPuzzle\bin\Debug\JogoRoletaPuzzle.dll
+c:\users\adm\documents\visual studio 2012\Projects\ProjetoRoletaRomana\JogoRoletaPuzzle\bin\Debug\JogoRoletaPuzzle.pdb
+c:\users\adm\documents\visual studio 2012\Projects\ProjetoRoletaRomana\JogoRoletaPuzzle\obj\Debug\JogoRoletaPuzzle.csprojResolveAssemblyReference.cache
+c:\users\adm\documents\visual studio 2012\Projects\ProjetoRoletaRomana\JogoRoletaPuzzle\obj\Debug\JogoRoletaPuzzle.dll
+c:\users\adm\documents\visual studio 2012\Projects\ProjetoRoletaRomana\JogoRoletaPuzzle\obj\Debug\JogoRoletaPuzzle.pdb

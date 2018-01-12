@@ -1,0 +1,7 @@
+C:\Users\adm\documents\visual studio 2012\Projects\ProjetoRoletaRomana\JogoRoletaPuzzleTeste\bin\Debug\JogoRoletaPuzzleTeste.dll
+C:\Users\adm\documents\visual studio 2012\Projects\ProjetoRoletaRomana\JogoRoletaPuzzleTeste\bin\Debug\JogoRoletaPuzzleTeste.pdb
+C:\Users\adm\documents\visual studio 2012\Projects\ProjetoRoletaRomana\JogoRoletaPuzzleTeste\bin\Debug\JogoRoletaPuzzle.dll
+C:\Users\adm\documents\visual studio 2012\Projects\ProjetoRoletaRomana\JogoRoletaPuzzleTeste\bin\Debug\JogoRoletaPuzzle.pdb
+C:\Users\adm\documents\visual studio 2012\Projects\ProjetoRoletaRomana\JogoRoletaPuzzleTeste\obj\Debug\JogoRoletaRomanaTeste.csprojResolveAssemblyReference.cache
+C:\Users\adm\documents\visual studio 2012\Projects\ProjetoRoletaRomana\JogoRoletaPuzzleTeste\obj\Debug\JogoRoletaPuzzleTeste.dll
+C:\Users\adm\documents\visual studio 2012\Projects\ProjetoRoletaRomana\JogoRoletaPuzzleTeste\obj\Debug\JogoRoletaPuzzleTeste.pdb
